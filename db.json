@@ -1,4 +1,5 @@
-[
+{
+  "posts": [
   {
     "id": "1",
     "type": "product",
@@ -28,4 +29,12 @@
       "extraInfo3": "Labor cost is based on an hourly rate of $20."
     }
   }
-]
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
