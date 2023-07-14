@@ -27,16 +27,5 @@
       "extraInfo2": "Requires attention to detail and adherence to quality control standards.",
       "extraInfo3": "Labor cost is based on an hourly rate of $20."
     }
-  },
-  {
-    "id": "4",
-    "type": "labor",
-    "position": { "x": -600, "y": -450 },
-    "data": {
-      "name": "LV Packaging Labor",
-      "extraInfo1": "Team of workers involved in packaging finished products for shipment.",
-      "extraInfo2": "Tasks include boxing, palletizing, and applying shipping labels.",
-      "extraInfo3": "Labor cost is based on an hourly rate of $18."
-    }
   }
 ]
